@@ -1,3 +1,6 @@
+Backported for World of Warcraft 3.3.5a
+Using it when i play on my SteamDeck then with this addon i can save my current binds and actionbars so i can switch to keyboard and mouse without the need to rebind everything 
+
 # Myslot
 
 ## Introduction
